@@ -1,0 +1,5 @@
+output/*
+*.o
+*.d
+compile_commands.json
+test
